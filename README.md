@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
 </div>
 
